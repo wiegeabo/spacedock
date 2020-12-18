@@ -6,3 +6,4 @@ Macintosh, iOS and Android application for designing squads for use in [Star Tre
 See the [Space Dock web site](http://spacedockapp.org) for details.
 
 //comment for testing
+//another comment
